@@ -1,0 +1,19 @@
+{
+  "/api/contact/route": "/api/contact",
+  "/_not-found/page": "/_not-found",
+  "/page": "/",
+  "/services/appeals/page": "/services/appeals",
+  "/blog/page": "/blog",
+  "/services/page": "/services",
+  "/faq/page": "/faq",
+  "/contact/page": "/contact",
+  "/services/express-entry/page": "/services/express-entry",
+  "/blog/[slug]/page": "/blog/[slug]",
+  "/about/page": "/about",
+  "/services/permanent-residency/page": "/services/permanent-residency",
+  "/services/francophone-mobility/page": "/services/francophone-mobility",
+  "/services/visitor-visa/page": "/services/visitor-visa",
+  "/services/study-permit/page": "/services/study-permit",
+  "/services/pnp/page": "/services/pnp",
+  "/services/work-permits/page": "/services/work-permits"
+}

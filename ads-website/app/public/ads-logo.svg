@@ -1,0 +1,12 @@
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red Maple Leaf -->
+  <g id="maple-leaf">
+    <path d="M200 20 L210 50 L240 50 L215 70 L225 100 L200 80 L175 100 L185 70 L160 50 L190 50 Z" fill="#C41E3A"/>
+  </g>
+
+  <!-- ADS Text -->
+  <text x="220" y="85" font-size="64" font-weight="bold" fill="#C41E3A" font-family="Arial, sans-serif">ADS</text>
+
+  <!-- Immigration Services Text -->
+  <text x="120" y="130" font-size="24" fill="#333333" font-family="Arial, sans-serif" letter-spacing="2">Immigration Services</text>
+</svg>

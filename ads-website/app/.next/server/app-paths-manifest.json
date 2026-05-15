@@ -1,0 +1,19 @@
+{
+  "/api/contact/route": "app/api/contact/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/services/appeals/page": "app/services/appeals/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/services/page": "app/services/page.js",
+  "/faq/page": "app/faq/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/services/express-entry/page": "app/services/express-entry/page.js",
+  "/blog/[slug]/page": "app/blog/[slug]/page.js",
+  "/about/page": "app/about/page.js",
+  "/services/permanent-residency/page": "app/services/permanent-residency/page.js",
+  "/services/francophone-mobility/page": "app/services/francophone-mobility/page.js",
+  "/services/visitor-visa/page": "app/services/visitor-visa/page.js",
+  "/services/study-permit/page": "app/services/study-permit/page.js",
+  "/services/pnp/page": "app/services/pnp/page.js",
+  "/services/work-permits/page": "app/services/work-permits/page.js"
+}
